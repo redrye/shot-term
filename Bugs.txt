@@ -1,0 +1,11 @@
+Bugs - Quality Denter
+
+
+
+1. Christopher Kimmel DDS PLLS showing as seperate entry in import when merged with Christopher Kimmel DDS PLLC.
+
+2. ALCORTA CONSTRUCTION showing copy even though there is already w9 form (copy should not show)
+
+3. Charden - no i in template view
+
+4. Maxillofacial Surgery Services Of Central Texas PLLC - 2, 1 with a comma one without. One has an i the other does not.

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -ex
+
+npm run make
+rm -rf "${HOME}/Applications/Terminals/ShotTerm.app"
+mv out/ShotTerm-darwin-*/ShotTerm.app "/Applications/ShotTerm"
